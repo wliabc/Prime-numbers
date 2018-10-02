@@ -1,3 +1,4 @@
+#just added a comment to test Git
 #ask user for an integer and tell the user whether it is a prime number or not.  
 mynum= int(input("Please enter an integer you want to check"))
 isprime = True

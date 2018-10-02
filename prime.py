@@ -1,3 +1,4 @@
+#test 3 with GUI added a comment here
 #just added a comment to test Git
 #ask user for an integer and tell the user whether it is a prime number or not.  
 mynum= int(input("Please enter an integer you want to check"))
